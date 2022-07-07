@@ -601,3 +601,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f64858aca2859564fb0192bb48ee3db9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  movement:
+    m_Name: Movement
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: 653d1844-9205-4f6c-995c-387efa2b4723
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings: []
+    m_Flags: 0
